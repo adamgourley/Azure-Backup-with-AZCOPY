@@ -15,7 +15,7 @@ README.md     - Instructions/overview
 
 #### Instructions
 1) Copy the contents of this directory to  `C:\BackupToAzure`
-2) Edit line 21 in `backup.ps1` to reflect the Azure location/credentials of your backup file location and the storage destination.
+2) Edit line 21 in `backup.ps1` to reflect the Azure location/credentials of your backup file location and the storage destination. You will see several `redacted` sections where you need to add your information.
 3) Install the service with the following commands (in an elevated PowerShell prompt)
 
 ```Powershell
